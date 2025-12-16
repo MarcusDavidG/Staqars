@@ -1,0 +1,15 @@
+# Credentials - NEVER COMMIT
+.env*
+*.key
+*.pem
+secrets/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Clarinet
+.cache/
+costs-reports.txt
