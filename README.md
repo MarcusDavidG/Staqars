@@ -16,6 +16,7 @@ This repository currently contains the following dApps:
 *   **[Credential Registry](./credential-registry/README.md)**: A system to issue, verify, and manage digital credentials on-chain.
 *   **[Insurance Pool](./insurance-pool/README.md)**: A decentralized risk pooling and claims management platform.
 *   **[NFT Marketplace](./nft-marketplace/README.md)**: A decentralized NFT marketplace with creator royalties.
+*   **[Subscription Service](./subscription-service/README.md)**: A recurring payment system for services.
 *   **[Staking Rewards](./staking-rewards/README.md)**: A time-based yield farming dApp.
 
 Each dApp is located in its own directory and contains its own set of contracts, tests, and deployment configurations. Please refer to the `README.md` file within each dApp's directory for more specific information.
