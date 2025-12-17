@@ -17,12 +17,13 @@ This repository currently contains the following dApps:
 *   **[Insurance Pool](./insurance-pool/README.md)**: A decentralized risk pooling and claims management platform.
 *   **[NFT Marketplace](./nft-marketplace/README.md)**: A decentralized NFT marketplace with creator royalties.
 *   **[Subscription Service](./subscription-service/README.md)**: A recurring payment system for services.
+*   **[Staking Rewards](./staking-rewards/README.md)**: A time-based yield farming dApp.
 
 Each dApp is located in its own directory and contains its own set of contracts, tests, and deployment configurations. Please refer to the `README.md` file within each dApp's directory for more specific information.
 
 ## Getting Started
 
-To get started with any of the dApps in this repository, you will need to have [Clarinet](https://github.com/hirosystems/clarinet) installed. Clarinet is a tool for developing, testing, and deploying Clarity smart contracts.
+To get started with any of the dApps in this repository, you will need to have [Clarinet](https://github.com/hirosystems/clarinet) installed. 
 
 Once you have Clarinet installed, you can navigate to the directory of the dApp you are interested in and use the Clarinet CLI to interact with the contracts.
 
